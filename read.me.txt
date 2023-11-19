@@ -1,0 +1,1 @@
+Stopwords.txt 파일과 test_울지바야르.ipynb 파일을 한 경로에 저장해서 실행해주세요
